@@ -1,1 +1,2 @@
 # LeetCode
+More in Wiki.
